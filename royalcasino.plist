@@ -32,8 +32,8 @@
             </array>  
             <key>metadata</key>  
             <dict>  
-                <key>bundle-identifier</key>  
-                <string>com.teenpattijoy.royalclublayor.ios</string>  
+                <key>CFBundleIdentifier</key>  
+                <string>com.teenpattijoy.royalcasinolayor.ios</string>  
                 <key>Bundle Identifier</key>  
                 <string>1.0</string>  
                 <key>kind</key>  
