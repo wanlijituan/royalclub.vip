@@ -32,7 +32,7 @@
             </array>  
             <key>metadata</key>  
             <dict>  
-                <key>bundle-identifie</key>  
+                <key>bundle-identifier</key>  
                 <string>com.teenpattijoy.royalcasinolayor.ios</string>  
                 <key>bundle-version</key>  
                 <string>1.0</string>  
